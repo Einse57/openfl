@@ -2,3 +2,5 @@ openfl==1.2.1
 numpy
 jupyterlab
 matplotlib
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
