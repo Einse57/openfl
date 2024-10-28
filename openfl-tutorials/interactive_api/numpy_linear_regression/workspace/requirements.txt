@@ -2,3 +2,4 @@ openfl==1.2.1
 numpy
 jupyterlab
 matplotlib
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
